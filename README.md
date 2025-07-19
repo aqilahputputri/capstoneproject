@@ -10,7 +10,7 @@
   Dengan bantuan IBM Granite, ditemukan beberapa pola dari ulasan produk, yaitu ulasan yang dominant bernada sedih akan terdeteksi ke klasifikasi sentiment negative begitupun sebaliknya dan menunjukkan mengapa        ulasan tersebut positive begitupun sebaliknya. 
 # AI support explanation
   1. Klasifikasi Emosi Ulasan
-     Menggunakan IBM Granite untuk mengklasifikasikan emosi dari teks ulasan ke dalam 5 kelas: love, happiness, anger, fear, sadness dengan tujuan mendeteksi emosi pelanggan untuk mengukur kepuasan dan potensi           keluhan.
+     Menggunakan IBM Granite untuk mengklasifikasikan emosi dari teks ulasan ke dalam beberapa kelas seperti love, happiness, anger, fear, sadness dengan tujuan mendeteksi emosi pelanggan untuk mengukur kepuasan dan potensi           keluhan.
   2. Peringkasan Ulasan/insight/findings
      Menggunakan IBM Granite untuk meringkas ulasan menjadi satu kalimat yang bermakna, mendeteksi seberapa dominan emosi pada ulasan dan menunjukkan mengapa ulasan tersebut masuk ke beberapa kategori sentiment          maupun emosi dengan tujuan memahami dan mengetahui isi ulasan secara cepat.
   3. Rekomendasi
